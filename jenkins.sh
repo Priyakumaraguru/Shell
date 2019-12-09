@@ -7,5 +7,5 @@ then
   sudo yum install jenkins
   sudo service jenkins start
 else
-echo"Nandri"
+echo "Nandri"
 fi
